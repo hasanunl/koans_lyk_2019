@@ -2,4 +2,4 @@
 
 $LOAD_PATH << File.dirname(__FILE__)
 
-require 'ruby_in_twenty_minutes'
+require 'ruby_koans_50_tests'
